@@ -1,0 +1,501 @@
+Q,ID,TOOL,Expected,Predicted,ID/OOD DAIV,Loss DAIV,Loss Selforacle,ASS 1,ASS 2,ID/OOD Human,Misclass Human 1,Misclass Human 2,Misclass Humans,ID/OOD Selforacle 9999
+0,dj_0_e5_p2,dj,5,2,ood,1765.8677978515600,15.52844,Digit 5,Digit 5,id,1,1,yes,ood
+0,dj_1_e5_p6,dj,5,6,ood,1823.8663330078100,13.958854,Digit 6,Digit 6,id,0,0,no,ood
+45,dj_10_e5_p6,dj,5,6,ood,1847.318603515630,15.195863,Digit 6,Digit 6,id,0,0,no,ood
+45,dj_11_e5_p6,dj,5,6,ood,2435.563232421880,13.036874,Digit 5,Digit 1,id,1,0,N/A,ood
+46,dj_12_e5_p3,dj,5,3,ood,407.2627868652340,18.85763,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+46,dj_13_e5_p6,dj,5,6,ood,2047.431396484380,11.281995,Digit 6,Digit 6,id,0,0,no,ood
+47,dj_14_e5_p6,dj,5,6,ood,1727.757568359380,12.936196,Digit 6,Digit 6,id,0,0,no,ood
+47,dj_15_e5_p6,dj,5,6,ood,1744.9091796875,13.588558,Digit 6,Digit 6,id,0,0,no,ood
+48,dj_16_e5_p6,dj,5,6,ood,1661.949462890630,15.395616,Digit 6,Digit 6,id,0,0,no,ood
+48,dj_17_e5_p6,dj,5,6,ood,1510.7939453125,14.242718,Digit 6,Digit 6,id,0,0,no,ood
+49,dj_18_e5_p6,dj,5,6,ood,2126.4599609375,11.762032,Digit 6,Digit 6,id,0,0,no,ood
+49,dj_19_e5_p6,dj,5,6,ood,1940.1060791015600,13.03276,Digit 6,Digit 6,id,0,0,no,ood
+1,dj_2_e5_p6,dj,5,6,ood,2060.977783203130,12.6753645,Digit 6,Digit 6,id,0,0,no,ood
+2,dj_20_e5_p3,dj,5,3,ood,1237.5738525390600,17.923069,Not a Street View House Number,Digit 0,?,0,0,no,ood
+2,dj_21_e5_p6,dj,5,6,ood,1695.5284423828100,14.630748,Digit 6,Digit 6,id,0,0,no,ood
+3,dj_22_e5_p1,dj,5,1,ood,2945.41357421875,11.427228,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+3,dj_23_e5_p9,dj,5,9,ood,1322.1849365234400,11.662969,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+4,dj_24_e5_p6,dj,5,6,ood,2027.5164794921900,12.142115,Digit 6,Digit 6,id,0,0,no,ood
+4,dj_25_e5_p9,dj,5,9,ood,2122.713134765630,10.686295,Digit 9,Digit 9,id,0,0,no,ood
+5,dj_26_e5_p9,dj,5,9,ood,710.2819213867190,11.801364,Digit 9,Digit 5,id,0,1,N/A,ood
+5,dj_27_e5_p9,dj,5,9,ood,1439.5899658203100,12.628235,Digit 5,Not a Street View House Number,?,1,0,N/A,ood
+6,dj_28_e5_p6,dj,5,6,ood,1874.45947265625,13.3714695,Digit 6,Digit 6,id,0,0,no,ood
+6,dj_29_e5_p3,dj,5,3,ood,604.8982543945310,15.4458475,Digit 0,Not a Street View House Number,?,0,0,no,ood
+1,dj_3_e5_p1,dj,5,1,ood,1734.44677734375,19.98876,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+7,dj_30_e5_p6,dj,5,6,ood,2171.44384765625,15.131596,Not a Street View House Number,Digit 5,?,0,1,N/A,ood
+7,dj_31_e5_p3,dj,5,3,ood,1377.469482421880,22.715984,Not a Street View House Number,Digit 6,?,0,0,no,ood
+8,dj_32_e5_p9,dj,5,9,ood,1308.38134765625,12.714776,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+8,dj_33_e5_p6,dj,5,6,ood,989.9412231445310,34.195763,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+9,dj_34_e5_p7,dj,5,7,ood,1436.1580810546900,16.22127,Not a Street View House Number,Digit 5,?,0,1,N/A,ood
+9,dj_35_e5_p2,dj,5,2,ood,2954.318115234380,9.546201,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+10,dj_36_e5_p6,dj,5,6,ood,1718.3612060546900,15.645181,Digit 9,Digit 6,id,0,0,no,ood
+10,dj_37_e5_p6,dj,5,6,ood,2387.631103515630,12.965978,Not a Street View House Number,Digit 8,?,0,0,no,ood
+11,dj_38_e5_p6,dj,5,6,ood,1869.939453125,17.84708,Digit 5,Digit 6,id,1,0,N/A,ood
+11,dj_39_e5_p2,dj,5,2,ood,2493.2529296875,12.546067,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+12,dj_4_e5_p6,dj,5,6,ood,758.2807006835940,33.985996,Digit 8,Digit 6,id,0,0,no,ood
+13,dj_40_e5_p9,dj,5,9,ood,1438.8690185546900,12.2730875,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+13,dj_41_e5_p6,dj,5,6,ood,1508.1793212890600,27.436268,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+14,dj_42_e5_p9,dj,5,9,ood,1720.6170654296900,11.324448,Digit 9,Digit 9,id,0,0,no,ood
+14,dj_43_e5_p9,dj,5,9,ood,2285.801513671880,10.821577,Not a Street View House Number,Digit 9,?,0,0,no,ood
+15,dj_44_e5_p8,dj,5,8,ood,3173.6982421875,6.488633,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+15,dj_45_e5_p3,dj,5,3,ood,1430.385986328130,19.382948,Digit 8,Digit 0,id,0,0,no,ood
+16,dj_46_e5_p9,dj,5,9,ood,829.0877075195310,10.959501,Not a Street View House Number,Digit 5,?,0,1,N/A,ood
+16,dj_47_e5_p6,dj,5,6,ood,1095.8572998046900,32.46933,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+17,dj_48_e5_p9,dj,5,9,ood,2264.06982421875,11.154993,Not a Street View House Number,Digit 5,?,0,1,N/A,ood
+17,dj_49_e5_p9,dj,5,9,ood,1902.0574951171900,10.301771,Digit 9,Digit 9,id,0,0,no,ood
+12,dj_5_e5_p4,dj,5,4,ood,913.9134521484380,11.747753,Digit 0,Digit 6,id,0,0,no,ood
+18,dj_50_e5_p3,dj,5,3,ood,2087.10791015625,18.992058,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+18,dj_51_e5_p9,dj,5,9,ood,-354.1280517578130,8.959367,Not a Street View House Number,Digit 5,?,0,1,N/A,ood
+19,dj_52_e5_p6,dj,5,6,ood,1830.698486328130,13.904605,Digit 8,Not a Street View House Number,?,0,0,no,ood
+19,dj_53_e5_p8,dj,5,8,ood,2793.440185546880,6.360518,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+20,dj_54_e5_p3,dj,5,3,ood,1196.7978515625,21.78215,Digit 6,Digit 1,id,0,0,no,ood
+20,dj_55_e5_p1,dj,5,1,ood,1335.0487060546900,19.997501,Digit 5,Digit 5,id,1,1,yes,ood
+21,dj_56_e5_p6,dj,5,6,ood,1728.0582275390600,15.837964,Digit 6,Digit 6,id,0,0,no,ood
+21,dj_57_e5_p2,dj,5,2,ood,1950.9705810546900,16.26733,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+22,dj_58_e5_p2,dj,5,2,ood,1113.7625732421900,25.441216,Digit 5,Digit 5,id,1,1,yes,ood
+22,dj_59_e5_p9,dj,5,9,ood,648.8392944335940,13.518712,Not a Street View House Number,Digit 9,?,0,0,no,ood
+23,dj_6_e5_p6,dj,5,6,ood,1686.4622802734400,14.092759,Digit 6,Digit 6,id,0,0,no,ood
+24,dj_60_e5_p6,dj,5,6,ood,1886.9384765625,13.005181,Digit 6,Digit 6,id,0,0,no,ood
+24,dj_61_e5_p3,dj,5,3,ood,2272.35693359375,14.697989,Not a Street View House Number,Digit 0,?,0,0,no,ood
+25,dj_62_e5_p6,dj,5,6,ood,1969.0416259765600,12.889017,Digit 6,Digit 6,id,0,0,no,ood
+25,dj_63_e5_p6,dj,5,6,ood,1497.1385498046900,13.923948,Digit 6,Digit 6,id,0,0,no,ood
+26,dj_64_e5_p6,dj,5,6,ood,152.62710571289100,13.699619,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+26,dj_65_e5_p6,dj,5,6,ood,1696.091064453130,15.95863,Not a Street View House Number,Digit 6,?,0,0,no,ood
+27,dj_66_e5_p3,dj,5,3,ood,2189.07666015625,18.534618,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+27,dj_67_e5_p6,dj,5,6,ood,1796.0267333984400,14.498646,Digit 6,Digit 6,id,0,0,no,ood
+28,dj_68_e5_p1,dj,5,1,ood,1541.764404296880,16.494678,Digit 5,Digit 5,id,1,1,yes,ood
+28,dj_69_e5_p6,dj,5,6,ood,1940.73876953125,13.071413,Digit 6,Digit 5,id,0,1,N/A,ood
+23,dj_7_e5_p6,dj,5,6,ood,1897.001220703130,13.851828,Digit 6,Digit 6,id,0,0,no,ood
+29,dj_70_e5_p3,dj,5,3,ood,2953.77587890625,10.292943,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+29,dj_71_e5_p6,dj,5,6,ood,2368.65283203125,10.26946,Digit 5,Digit 6,id,1,0,N/A,ood
+30,dj_72_e5_p8,dj,5,8,ood,3242.335205078130,11.911169,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+30,dj_73_e5_p3,dj,5,3,ood,2141.04931640625,14.483784,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+31,dj_74_e5_p6,dj,5,6,ood,1843.438232421880,14.621816,Digit 6,Digit 6,id,0,0,no,ood
+31,dj_75_e5_p9,dj,5,9,ood,3499.994873046880,10.89245,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+32,dj_76_e5_p3,dj,5,3,ood,2199.95703125,14.566392,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+32,dj_77_e5_p6,dj,5,6,ood,1772.0074462890600,13.402182,Digit 6,Digit 6,id,0,0,no,ood
+33,dj_78_e5_p7,dj,5,7,ood,1712.8994140625,24.201214,Digit 2,Not a Street View House Number,?,0,0,no,ood
+33,dj_79_e5_p6,dj,5,6,ood,1722.2694091796900,14.670689,Digit 6,Digit 6,id,0,0,no,ood
+34,dj_8_e5_p6,dj,5,6,ood,1872.281982421880,12.665521,Digit 6,Digit 6,id,0,0,no,ood
+35,dj_80_e5_p6,dj,5,6,ood,1418.0701904296900,15.720284,Digit 6,Digit 6,id,0,0,no,ood
+35,dj_81_e5_p7,dj,5,7,ood,2037.6875,24.933306,Not a Street View House Number,Digit 2,?,0,0,no,ood
+36,dj_82_e5_p6,dj,5,6,ood,1996.6329345703100,12.459697,Digit 6,Digit 6,id,0,0,no,ood
+36,dj_83_e5_p2,dj,5,2,ood,388.6648864746090,28.791336,Digit 8,Digit 8,id,0,0,no,ood
+37,dj_84_e5_p2,dj,5,2,ood,1672.36083984375,20.829617,Not a Street View House Number,Digit 5,?,0,1,N/A,ood
+37,dj_85_e5_p6,dj,5,6,ood,1790.2042236328100,15.62683,Not a Street View House Number,Digit 6,?,0,0,no,ood
+38,dj_86_e5_p6,dj,5,6,ood,1662.462646484380,14.074214,Digit 6,Digit 6,id,0,0,no,ood
+38,dj_87_e5_p2,dj,5,2,ood,3419.696044921880,12.518442,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+39,dj_88_e5_p9,dj,5,9,ood,1696.391845703130,12.134169,Digit 0,Not a Street View House Number,?,0,0,no,ood
+39,dj_89_e5_p2,dj,5,2,ood,1050.628173828130,19.248753,Digit 8,Not a Street View House Number,?,0,0,no,ood
+34,dj_9_e5_p9,dj,5,9,ood,2539.010498046880,3.258149,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+40,dj_90_e5_p7,dj,5,7,ood,1384.524169921880,17.221708,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+40,dj_91_e5_p4,dj,5,4,ood,1320.7354736328100,17.576939,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+41,dj_92_e5_p8,dj,5,8,ood,2659.5771484375,7.966358,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+41,dj_93_e5_p9,dj,5,9,ood,-455.5005798339840,18.153362,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+42,dj_94_e5_p7,dj,5,7,ood,967.1124877929690,16.93305,Not a Street View House Number,Digit 5,?,0,1,N/A,ood
+42,dj_95_e5_p2,dj,5,2,ood,972.3507690429690,12.233325,Not a Street View House Number,Digit 5,?,0,1,N/A,ood
+43,dj_96_e5_p2,dj,5,2,ood,2444.751953125,12.572192,Digit 5,Digit 1,id,1,0,N/A,ood
+43,dj_97_e5_p8,dj,5,8,ood,2814.3056640625,6.7422495,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+44,dj_98_e5_p8,dj,5,8,ood,2577.525390625,6.8587,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,ood
+44,dj_99_e5_p6,dj,5,6,ood,1138.5872802734400,34.294914,Not a Street View House Number,Digit 6,?,0,0,no,ood
+0,dlf_0_e5_p3,dlf,5,3,id,6598.2275390625,1.8024938,Not a Street View House Number,Digit 3,?,0,0,no,id
+1,dlf_1_e5_p6,dlf,5,6,id,6573.23583984375,1.7083981,Digit 5,Digit 5,id,1,1,yes,id
+2,dlf_10_e5_p6,dlf,5,6,id,7609.41845703125,0.9041733,Digit 8,Digit 5,id,0,1,N/A,id
+3,dlf_11_e5_p6,dlf,5,6,id,7051.802734375,1.2293532,Not a Street View House Number,Digit 6,?,0,0,no,id
+4,dlf_12_e5_p6,dlf,5,6,id,8478.0185546875,0.76285064,Digit 5,Digit 6,id,1,0,N/A,id
+5,dlf_13_e5_p4,dlf,5,4,id,7962.15625,0.95344305,Digit 3,Digit 3,id,0,0,no,id
+6,dlf_14_e5_p6,dlf,5,6,id,8437.44921875,0.81990135,Digit 6,Digit 6,id,0,0,no,id
+7,dlf_15_e5_p6,dlf,5,6,id,8453.02734375,0.7399868,Digit 6,Digit 3,id,0,0,no,id
+8,dlf_16_e5_p9,dlf,5,9,id,8820.6357421875,0.6552831,Digit 9,Not a Street View House Number,?,0,0,no,id
+9,dlf_17_e5_p6,dlf,5,6,id,7094.13671875,1.3335057,Not a Street View House Number,Digit 6,?,0,0,no,id
+10,dlf_18_e5_p8,dlf,5,8,id,8077.28515625,1.0659411,Digit 5,Digit 6,id,1,0,N/A,id
+11,dlf_19_e5_p3,dlf,5,3,id,7904.6328125,1.0658289,Digit 5,Digit 5,id,1,1,yes,id
+12,dlf_2_e5_p6,dlf,5,6,id,8888.0224609375,0.65360695,Digit 6,Digit 6,id,0,0,no,id
+13,dlf_20_e5_p6,dlf,5,6,id,8011.29296875,0.7350693,Digit 6,Digit 5,id,0,1,N/A,id
+14,dlf_21_e5_p6,dlf,5,6,id,7139.8251953125,1.3849179,Digit 5,Digit 5,id,1,1,yes,id
+15,dlf_22_e5_p6,dlf,5,6,id,7333.37841796875,1.0320852,Digit 5,Digit 5,id,1,1,yes,id
+16,dlf_23_e5_p3,dlf,5,3,id,5624.72998046875,2.365243,Digit 5,Digit 5,id,1,1,yes,id
+17,dlf_24_e5_p9,dlf,5,9,id,6661.08154296875,2.3165832,Digit 5,Digit 5,id,1,1,yes,id
+18,dlf_25_e5_p7,dlf,5,7,id,8313.908203125,1.0420014,Digit 9,Digit 9,id,0,0,no,id
+19,dlf_26_e5_p0,dlf,5,0,id,7922.12255859375,1.0500175,Digit 8,Digit 3,id,0,0,no,id
+20,dlf_27_e5_p3,dlf,5,3,id,9014.9130859375,0.55961156,Digit 5,Digit 3,id,1,0,N/A,id
+21,dlf_28_e5_p6,dlf,5,6,id,6657.98486328125,1.6967475,Digit 5,Digit 5,id,1,1,yes,id
+22,dlf_29_e5_p6,dlf,5,6,id,6845.14013671875,1.4018105,Digit 5,Digit 5,id,1,1,yes,id
+23,dlf_3_e5_p6,dlf,5,6,id,6895.330078125,1.8414779,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+24,dlf_30_e5_p6,dlf,5,6,id,8446.212890625,0.7580743,Digit 6,Digit 6,id,0,0,no,id
+25,dlf_31_e5_p3,dlf,5,3,id,8720.4638671875,0.59314543,Digit 3,Not a Street View House Number,?,0,0,no,id
+26,dlf_32_e5_p6,dlf,5,6,id,9354.4970703125,0.47049662,Digit 6,Digit 6,id,0,0,no,id
+27,dlf_33_e5_p9,dlf,5,9,id,8747.9326171875,0.922735,Digit 9,Digit 9,id,0,0,no,id
+28,dlf_34_e5_p9,dlf,5,9,id,8367.30859375,0.910107,Digit 9,Digit 9,id,0,0,no,id
+29,dlf_35_e5_p9,dlf,5,9,id,6788.65283203125,1.4355167,Digit 5,Digit 5,id,1,1,yes,id
+30,dlf_36_e5_p3,dlf,5,3,id,8059.7470703125,0.9920972,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+31,dlf_37_e5_p3,dlf,5,3,id,8687.8759765625,0.8510217,Digit 3,Not a Street View House Number,?,0,0,no,id
+32,dlf_38_e5_p7,dlf,5,7,id,8447.4541015625,0.86315084,Digit 8,Not a Street View House Number,?,0,0,no,id
+33,dlf_39_e5_p6,dlf,5,6,id,8618.7041015625,0.6454432,Digit 6,Digit 6,id,0,0,no,id
+34,dlf_4_e5_p3,dlf,5,3,id,8803.1298828125,0.5263341,Not a Street View House Number,Digit 3,?,0,0,no,id
+35,dlf_40_e5_p9,dlf,5,9,id,9654.3916015625,0.46277043,Digit 8,Digit 8,id,0,0,no,id
+36,dlf_41_e5_p6,dlf,5,6,id,7118.36181640625,1.3898267,Digit 5,Digit 5,id,1,1,yes,id
+37,dlf_42_e5_p6,dlf,5,6,id,8886.5712890625,0.61331666,Digit 6,Digit 6,id,0,0,no,id
+38,dlf_43_e5_p3,dlf,5,3,id,8197.67578125,0.77593064,Digit 6,Digit 6,id,0,0,no,id
+39,dlf_44_e5_p9,dlf,5,9,id,9938.9736328125,0.51108074,Digit 8,Not a Street View House Number,?,0,0,no,id
+40,dlf_45_e5_p3,dlf,5,3,id,9006.2138671875,0.6899484,Digit 3,Not a Street View House Number,?,0,0,no,id
+41,dlf_46_e5_p3,dlf,5,3,id,9257.78515625,0.5815959,Digit 3,Not a Street View House Number,?,0,0,no,id
+42,dlf_47_e5_p2,dlf,5,2,id,8166.609375,0.92904675,Digit 5,Digit 5,id,1,1,yes,id
+43,dlf_48_e5_p3,dlf,5,3,id,9190.4873046875,0.76571673,Digit 5,Digit 5,id,1,1,yes,id
+44,dlf_49_e5_p9,dlf,5,9,id,8499.666015625,0.78006804,Digit 8,Digit 9,id,0,0,no,id
+45,dlf_5_e5_p6,dlf,5,6,id,7311.712890625,1.1018417,Digit 5,Digit 5,id,1,1,yes,id
+0,dlf_50_e5_p4,dlf,5,4,id,8806.79296875,0.7057949,Digit 6,Digit 6,id,0,0,no,id
+1,dlf_51_e5_p6,dlf,5,6,id,6404.2666015625,1.6126369,Digit 5,Digit 5,id,1,1,yes,id
+12,dlf_52_e5_p6,dlf,5,6,id,6700.42919921875,1.4564664,Digit 5,Digit 5,id,1,1,yes,id
+23,dlf_53_e5_p3,dlf,5,3,id,9845.8564453125,0.5535866,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+34,dlf_54_e5_p8,dlf,5,8,id,9387.0537109375,0.5281618,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+45,dlf_55_e5_p3,dlf,5,3,id,8976.0224609375,0.67197156,Digit 3,Digit 3,id,0,0,no,id
+46,dlf_56_e5_p3,dlf,5,3,id,8163.90625,0.8544718,Digit 3,Not a Street View House Number,?,0,0,no,id
+47,dlf_57_e5_p3,dlf,5,3,id,6605.65625,2.0832691,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+48,dlf_58_e5_p9,dlf,5,9,id,7991.7451171875,0.9197357,Not a Street View House Number,Digit 3,?,0,0,no,id
+49,dlf_59_e5_p6,dlf,5,6,id,7528.39794921875,1.3736393,Digit 6,Digit 6,id,0,0,no,id
+46,dlf_6_e5_p6,dlf,5,6,id,8584.1240234375,0.7943088,Digit 5,Digit 5,id,1,1,yes,id
+2,dlf_60_e5_p6,dlf,5,6,id,7657.4873046875,1.1467637,Digit 8,Digit 8,id,0,0,no,id
+3,dlf_61_e5_p6,dlf,5,6,id,7475.75830078125,1.0078125,Digit 6,Digit 6,id,0,0,no,id
+4,dlf_62_e5_p6,dlf,5,6,id,9924.5439453125,0.38357267,Digit 5,Digit 6,id,1,0,N/A,id
+5,dlf_63_e5_p6,dlf,5,6,id,8664.955078125,0.7080955,Digit 6,Digit 6,id,0,0,no,id
+6,dlf_64_e5_p6,dlf,5,6,id,7869.736328125,1.1966695,Digit 5,Digit 8,id,1,0,N/A,id
+7,dlf_65_e5_p3,dlf,5,3,id,8518.3125,0.961635,Digit 3,Digit 3,id,0,0,no,id
+8,dlf_66_e5_p6,dlf,5,6,id,7665.39111328125,1.2666962,Digit 6,Digit 5,id,0,1,N/A,id
+9,dlf_67_e5_p9,dlf,5,9,id,8894.2216796875,0.79631037,Not a Street View House Number,Digit 8,?,0,0,no,id
+10,dlf_68_e5_p9,dlf,5,9,id,9449.1865234375,0.5180907,Digit 8,Digit 8,id,0,0,no,id
+11,dlf_69_e5_p3,dlf,5,3,id,8682.3896484375,0.66946816,Digit 5,Digit 3,id,1,0,N/A,id
+47,dlf_7_e5_p6,dlf,5,6,id,7227.59521484375,1.2373741,Digit 5,Digit 5,id,1,1,yes,id
+13,dlf_70_e5_p6,dlf,5,6,id,7102.47021484375,1.2851372,Digit 5,Digit 5,id,1,1,yes,id
+14,dlf_71_e5_p7,dlf,5,7,id,9794.8603515625,0.5973439,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+15,dlf_72_e5_p6,dlf,5,6,id,9167.3369140625,0.5745962,Digit 6,Digit 6,id,0,0,no,id
+16,dlf_73_e5_p3,dlf,5,3,id,7160.7763671875,1.9886729,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+17,dlf_74_e5_p3,dlf,5,3,id,8224.2578125,0.75270075,Digit 5,Digit 5,id,1,1,yes,id
+18,dlf_75_e5_p3,dlf,5,3,id,9650.1279296875,0.50928175,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+19,dlf_76_e5_p3,dlf,5,3,id,6929.75537109375,1.9233786,Digit 5,Digit 5,id,1,1,yes,id
+20,dlf_77_e5_p3,dlf,5,3,id,7970.55810546875,0.9910636,Digit 5,Digit 5,id,1,1,yes,id
+21,dlf_78_e5_p7,dlf,5,7,id,9220.1376953125,0.5247318,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+22,dlf_79_e5_p6,dlf,5,6,id,7400.44384765625,1.5480503,Digit 5,Digit 5,id,1,1,yes,id
+48,dlf_8_e5_p6,dlf,5,6,id,8697.859375,0.71376455,Digit 6,Digit 6,id,0,0,no,id
+24,dlf_80_e5_p6,dlf,5,6,id,9452.4453125,0.5052817,Digit 6,Digit 6,id,0,0,no,id
+25,dlf_81_e5_p9,dlf,5,9,id,7693.20654296875,0.9342317,Digit 5,Digit 3,id,1,0,N/A,id
+26,dlf_82_e5_p3,dlf,5,3,id,8250.4873046875,0.90728986,Digit 5,Digit 6,id,1,0,N/A,id
+27,dlf_83_e5_p9,dlf,5,9,id,8265.681640625,0.95532894,Digit 3,Digit 3,id,0,0,no,id
+28,dlf_84_e5_p8,dlf,5,8,id,9110.017578125,0.5481774,Digit 8,Digit 2,id,0,0,no,id
+29,dlf_85_e5_p6,dlf,5,6,id,9036.61328125,0.6398979,Digit 6,Digit 6,id,0,0,no,id
+30,dlf_86_e5_p6,dlf,5,6,id,9730.66015625,0.4803339,Not a Street View House Number,Digit 6,?,0,0,no,id
+31,dlf_87_e5_p0,dlf,5,0,id,9162.3203125,0.8353073,Digit 0,Not a Street View House Number,?,0,0,no,id
+32,dlf_88_e5_p3,dlf,5,3,id,8183.0703125,1.0661019,Digit 3,Not a Street View House Number,?,0,0,no,id
+33,dlf_89_e5_p9,dlf,5,9,id,9184.1875,0.7156864,Digit 5,Digit 5,id,1,1,yes,id
+49,dlf_9_e5_p0,dlf,5,0,id,8976.2880859375,0.85685706,Digit 0,Not a Street View House Number,?,0,0,no,id
+35,dlf_90_e5_p0,dlf,5,0,id,8022.7744140625,0.87321824,Digit 2,Digit 6,id,0,0,no,id
+36,dlf_91_e5_p8,dlf,5,8,id,8999.9892578125,0.6750885,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+37,dlf_92_e5_p6,dlf,5,6,id,8474.8046875,0.6819051,Digit 5,Digit 5,id,1,1,yes,id
+38,dlf_93_e5_p9,dlf,5,9,id,6475.5615234375,2.4695306,Digit 5,Digit 5,id,1,1,yes,id
+39,dlf_94_e5_p6,dlf,5,6,id,8352.65625,0.7946517,Digit 6,Not a Street View House Number,?,0,0,no,id
+40,dlf_95_e5_p7,dlf,5,7,id,8599.138671875,0.8423078,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+41,dlf_96_e5_p3,dlf,5,3,id,8470.3212890625,0.7856728,Digit 3,Digit 5,id,0,1,N/A,id
+42,dlf_97_e5_p3,dlf,5,3,id,7973.6142578125,0.9520683,Digit 3,Digit 5,id,0,1,N/A,id
+43,dlf_98_e5_p6,dlf,5,6,id,6762.662109375,1.659886,Digit 5,Digit 5,id,1,1,yes,id
+44,dlf_99_e5_p9,dlf,5,9,id,8617.7666015625,0.65228283,Digit 7,Digit 8,id,0,0,no,id
+0,dx_0_occl_e5_p3,dx,5,3,ood,3723.299072265630,5.1287813,Digit 5,Digit 5,id,1,1,yes,id
+1,dx_1_occl_e5_p3,dx,5,3,id,5600.58203125,1.6446631,Digit 5,Digit 5,id,1,1,yes,id
+2,dx_10_occl_e5_p3,dx,5,3,id,7250.3154296875,1.1583097,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+3,dx_11_occl_e5_p3,dx,5,3,id,7315.78173828125,1.1003026,Digit 5,Digit 5,id,1,1,yes,id
+4,dx_12_occl_e5_p3,dx,5,3,ood,4640.72900390625,2.8941848,Digit 5,Digit 5,id,1,1,yes,id
+5,dx_13_occl_e5_p6,dx,5,6,id,5646.54248046875,4.752615,Digit 5,Digit 5,id,1,1,yes,id
+6,dx_14_occl_e5_p3,dx,5,3,ood,5042.16552734375,2.5911593,Digit 5,Digit 5,id,1,1,yes,id
+7,dx_15_occl_e5_p3,dx,5,3,ood,5328.984375,2.0079272,Digit 5,Digit 5,id,1,1,yes,id
+8,dx_16_occl_e5_p3,dx,5,3,ood,3647.143798828130,4.9138155,Digit 5,Digit 5,id,1,1,yes,id
+9,dx_17_occl_e5_p2,dx,5,2,ood,5391.93798828125,2.5334897,Digit 5,Digit 5,id,1,1,yes,id
+10,dx_18_occl_e5_p3,dx,5,3,id,7136.20849609375,1.087122,Digit 5,Digit 5,id,1,1,yes,id
+11,dx_19_occl_e5_p7,dx,5,7,ood,2742.65966796875,6.2914352,Digit 5,Digit 5,id,1,1,yes,ood
+12,dx_2_occl_e5_p7,dx,5,7,ood,4958.96923828125,2.8139324,Digit 5,Digit 5,id,1,1,yes,id
+13,dx_20_occl_e5_p3,dx,5,3,ood,5022.1474609375,2.6086266,Digit 5,Digit 5,id,1,1,yes,id
+14,dx_21_occl_e5_p3,dx,5,3,ood,3086.85205078125,4.074148,Digit 5,Digit 5,id,1,1,yes,id
+15,dx_22_occl_e5_p3,dx,5,3,ood,5224.49951171875,1.9100416,Digit 6,Digit 5,id,0,1,N/A,id
+16,dx_23_occl_e5_p3,dx,5,3,id,7864.37158203125,1.2538764,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+17,dx_24_occl_e5_p3,dx,5,3,id,8211.3408203125,0.7444374,Digit 4,Digit 5,id,0,1,N/A,id
+18,dx_25_occl_e5_p3,dx,5,3,ood,5092.98779296875,2.2399976,Digit 5,Digit 5,id,1,1,yes,id
+19,dx_26_occl_e5_p3,dx,5,3,id,6650.3671875,1.8753858,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+20,dx_27_occl_e5_p3,dx,5,3,ood,3560.02099609375,4.032321,Digit 5,Digit 5,id,1,1,yes,id
+21,dx_28_occl_e5_p3,dx,5,3,ood,5136.302734375,2.8790407,Digit 5,Digit 5,id,1,1,yes,id
+22,dx_29_occl_e5_p3,dx,5,3,ood,5232.7861328125,4.023015,Digit 5,Digit 5,id,1,1,yes,id
+23,dx_3_occl_e5_p3,dx,5,3,ood,3410.431884765630,4.0882654,Digit 2,Not a Street View House Number,?,0,0,no,id
+24,dx_30_occl_e5_p3,dx,5,3,ood,3234.74267578125,4.41399,Digit 5,Digit 2,id,1,0,N/A,id
+25,dx_31_occl_e5_p3,dx,5,3,id,6619.451171875,1.6072946,Digit 5,Digit 5,id,1,1,yes,id
+26,dx_32_occl_e5_p2,dx,5,2,ood,5360.2802734375,2.8591006,Digit 5,Digit 5,id,1,1,yes,id
+27,dx_33_occl_e5_p3,dx,5,3,ood,5382.951171875,3.982801,Digit 5,Digit 5,id,1,1,yes,id
+28,dx_34_occl_e5_p3,dx,5,3,id,6852.66064453125,1.8653553,Digit 5,Digit 5,id,1,1,yes,id
+29,dx_35_occl_e5_p3,dx,5,3,ood,3347.152587890630,4.3763084,Digit 5,Digit 2,id,1,0,N/A,id
+30,dx_36_occl_e5_p6,dx,5,6,id,7465.0146484375,1.0058085,Not a Street View House Number,Digit 6,?,0,0,no,id
+31,dx_37_occl_e5_p3,dx,5,3,ood,5323.83740234375,1.573234,Digit 5,Digit 5,id,1,1,yes,id
+32,dx_38_occl_e5_p3,dx,5,3,id,5561.38037109375,2.1596782,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+33,dx_39_occl_e5_p3,dx,5,3,ood,4671.6201171875,3.1995893,Digit 5,Digit 5,id,1,1,yes,id
+34,dx_4_occl_e5_p6,dx,5,6,id,7495.68603515625,0.887907,Digit 6,Digit 5,id,0,1,N/A,id
+35,dx_40_occl_e5_p3,dx,5,3,ood,5144.16455078125,2.524345,Digit 5,Digit 5,id,1,1,yes,id
+36,dx_41_occl_e5_p3,dx,5,3,id,7284.1005859375,1.0699048,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+37,dx_42_occl_e5_p3,dx,5,3,ood,5249.55615234375,3.1909142,Digit 5,Digit 5,id,1,1,yes,id
+38,dx_43_blackout_e5_p4,dx,5,4,id,7911.9833984375,0.7689157,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+39,dx_44_blackout_e5_p8,dx,5,8,id,8243.0029296875,0.62346923,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+40,dx_45_blackout_e5_p3,dx,5,3,id,6630.517578125,1.5984203,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+41,dx_46_blackout_e5_p2,dx,5,2,id,5793.84130859375,1.8247533,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+42,dx_47_blackout_e5_p6,dx,5,6,id,6588.515625,1.7980005,Digit 5,Digit 6,id,1,0,N/A,id
+43,dx_48_blackout_e5_p6,dx,5,6,ood,1519.8206787109400,4.1162987,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+44,dx_49_blackout_e5_p9,dx,5,9,id,7704.02392578125,1.0278492,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+45,dx_5_occl_e5_p3,dx,5,3,ood,5463.8212890625,4.1002545,Digit 5,Digit 5,id,1,1,yes,id
+0,dx_50_blackout_e5_p4,dx,5,4,id,6986.29736328125,1.2763579,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+1,dx_51_blackout_e5_p6,dx,5,6,id,7002.35009765625,1.548873,Digit 5,Digit 5,id,1,1,yes,id
+12,dx_52_blackout_e5_p6,dx,5,6,id,6768.94580078125,1.3317549,Digit 0,Digit 3,id,0,0,no,id
+23,dx_53_blackout_e5_p6,dx,5,6,id,6198.775390625,1.5777339,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+34,dx_54_blackout_e5_p1,dx,5,1,id,5590.994140625,3.6688437,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+45,dx_55_blackout_e5_p3,dx,5,3,ood,5380.97705078125,2.4780116,Digit 5,Digit 3,id,1,0,N/A,id
+46,dx_56_blackout_e5_p3,dx,5,3,id,7061.71728515625,0.9794651,Digit 5,Digit 5,id,1,1,yes,id
+47,dx_57_blackout_e5_p8,dx,5,8,id,6164.833984375,1.6666533,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+48,dx_58_blackout_e5_p6,dx,5,6,ood,4738.23583984375,2.485667,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+49,dx_59_blackout_e5_p8,dx,5,8,id,8019.54833984375,0.8439478,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+46,dx_6_occl_e5_p3,dx,5,3,ood,3409.650146484380,4.2214317,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+2,dx_60_blackout_e5_p8,dx,5,8,id,5838.52880859375,1.3480388,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+3,dx_61_blackout_e5_p3,dx,5,3,id,5651.8759765625,2.2931738,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+4,dx_62_blackout_e5_p3,dx,5,3,id,5735.05029296875,1.722364,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+5,dx_63_blackout_e5_p6,dx,5,6,id,6070.2919921875,2.1351213,Digit 6,Digit 6,id,0,0,no,id
+6,dx_64_blackout_e5_p3,dx,5,3,ood,5333.07275390625,1.6421306,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+7,dx_65_blackout_e5_p6,dx,5,6,ood,4903.10546875,3.2215638,Digit 5,Digit 5,id,1,1,yes,id
+8,dx_66_blackout_e5_p3,dx,5,3,ood,5053.04150390625,3.211064,Digit 5,Digit 5,id,1,1,yes,id
+9,dx_67_blackout_e5_p2,dx,5,2,id,7616.4228515625,0.9563875,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+10,dx_68_blackout_e5_p6,dx,5,6,ood,4968.1884765625,2.8193712,Digit 5,Digit 5,id,1,1,yes,id
+11,dx_69_blackout_e5_p6,dx,5,6,id,7375.91064453125,0.9879589,Digit 5,Digit 5,id,1,1,yes,id
+47,dx_7_occl_e5_p3,dx,5,3,id,7354.681640625,1.3158233,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+13,dx_70_blackout_e5_p6,dx,5,6,ood,5172.3720703125,2.4031947,Digit 5,Digit 5,id,1,1,yes,id
+14,dx_71_blackout_e5_p3,dx,5,3,id,5642.38671875,2.0389967,Digit 5,Digit 5,id,1,1,yes,id
+15,dx_72_blackout_e5_p6,dx,5,6,id,6725.62451171875,1.2302775,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+16,dx_73_blackout_e5_p3,dx,5,3,id,6920.0966796875,1.2319161,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+17,dx_74_blackout_e5_p6,dx,5,6,ood,4098.43408203125,4.9627705,Digit 6,Digit 5,id,0,1,N/A,id
+18,dx_75_blackout_e5_p7,dx,5,7,id,6018.61962890625,1.9445416,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+19,dx_76_blackout_e5_p8,dx,5,8,ood,5427.92626953125,2.283705,Digit 2,Not a Street View House Number,?,0,0,no,id
+20,dx_77_light_e5_p3,dx,5,3,ood,-2452.238037109380,0.36508778,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+21,dx_78_light_e5_p3,dx,5,3,ood,756.8206787109380,0.69912523,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+22,dx_79_light_e5_p6,dx,5,6,id,6900.1494140625,0.82555556,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+48,dx_8_occl_e5_p3,dx,5,3,id,8195.2802734375,1.1943762,Digit 5,Digit 5,id,1,1,yes,id
+24,dx_80_light_e5_p3,dx,5,3,ood,1002.0612182617200,0.6095853,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+25,dx_81_light_e5_p4,dx,5,4,ood,4400.95751953125,0.7888598,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+26,dx_82_light_e5_p9,dx,5,9,ood,684.130126953125,0.8331262,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+27,dx_83_light_e5_p4,dx,5,4,ood,-434.7176818847660,0.46246946,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+28,dx_84_light_e5_p9,dx,5,9,id,9127.8251953125,0.47806853,Digit 5,Digit 5,id,1,1,yes,id
+29,dx_85_light_e5_p4,dx,5,4,id,8154.9052734375,0.7331455,Digit 5,Digit 5,id,1,1,yes,id
+30,dx_86_light_e5_p3,dx,5,3,ood,3230.125,0.68700594,Not a Street View House Number,Digit 2,?,0,0,no,id
+31,dx_87_light_e5_p3,dx,5,3,ood,4679.97216796875,0.8094139,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+32,dx_88_light_e5_p8,dx,5,8,ood,4239.3291015625,0.50178236,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+33,dx_89_light_e5_p2,dx,5,2,id,9569.060546875,0.47088557,Digit 6,Digit 5,id,0,1,N/A,id
+49,dx_9_occl_e5_p3,dx,5,3,ood,5447.38720703125,3.9810128,Digit 5,Digit 5,id,1,1,yes,id
+35,dx_90_light_e5_p3,dx,5,3,ood,1400.8399658203100,0.552544,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+36,dx_91_light_e5_p8,dx,5,8,ood,4943.41015625,0.5980155,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+37,dx_92_light_e5_p8,dx,5,8,id,6250.2490234375,0.74476343,Not a Street View House Number,Digit 0,?,0,0,no,id
+38,dx_93_light_e5_p3,dx,5,3,id,5989.654296875,0.71602637,Digit 5,Digit 5,id,1,1,yes,id
+39,dx_94_light_e5_p3,dx,5,3,ood,-340.4607238769530,0.99206704,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+40,dx_95_light_e5_p3,dx,5,3,ood,3458.68017578125,0.8107545,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+41,dx_96_light_e5_p1,dx,5,1,id,8258.0185546875,1.017687,Digit 5,Digit 5,id,1,1,yes,id
+42,dx_97_light_e5_p7,dx,5,7,id,6086.07177734375,1.9206753,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+43,dx_98_light_e5_p9,dx,5,9,ood,-244.1219482421880,0.5101977,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+44,dx_99_light_e5_p3,dx,5,3,ood,-1249.63134765625,0.53151023,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+0,ox_0_e5_p1,ox,5,1,id,9899.755859375,0.7331251,Digit 8,Digit 8,id,0,0,no,id
+0,ox_1_e5_p3,ox,5,3,id,8139.0390625,0.9133792,Digit 5,Digit 3,id,1,0,N/A,id
+45,ox_10_e5_p6,ox,5,6,id,5725.31591796875,2.0825393,Digit 6,Digit 5,id,0,1,N/A,id
+45,ox_11_e5_p6,ox,5,6,id,7249.08935546875,1.8980681,Digit 6,Digit 6,id,0,0,no,id
+46,ox_12_e5_p6,ox,5,6,id,8403.173828125,0.79347533,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+46,ox_13_e5_p2,ox,5,2,id,10014.7685546875,0.45975995,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+47,ox_14_e5_p9,ox,5,9,id,9395.7939453125,0.67528534,Digit 9,Digit 9,id,0,0,no,id
+47,ox_15_e5_p3,ox,5,3,id,8559.6337890625,0.82327616,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+48,ox_16_e5_p3,ox,5,3,id,7583.759765625,1.1194777,Digit 9,Digit 9,id,0,0,no,id
+48,ox_17_e5_p6,ox,5,6,id,8038.7333984375,0.9547417,Digit 5,Digit 5,id,1,1,yes,id
+49,ox_18_e5_p7,ox,5,7,id,9719.828125,0.69577384,Digit 5,Digit 5,id,1,1,yes,id
+49,ox_19_e5_p0,ox,5,0,id,8896.578125,0.9855692,Digit 0,Not a Street View House Number,?,0,0,no,id
+1,ox_2_e5_p8,ox,5,8,id,7811.6435546875,0.9539954,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+2,ox_20_e5_p6,ox,5,6,id,9596.04296875,0.4702754,Digit 6,Digit 5,id,0,1,N/A,id
+2,ox_21_e5_p6,ox,5,6,id,6851.00439453125,1.4484061,Not a Street View House Number,Digit 6,?,0,0,no,id
+3,ox_22_e5_p8,ox,5,8,id,8433.8896484375,0.6646174,Not a Street View House Number,Digit 8,?,0,0,no,id
+3,ox_23_e5_p9,ox,5,9,id,8140.9228515625,0.91635525,Not a Street View House Number,Digit 9,?,0,0,no,id
+4,ox_24_e5_p6,ox,5,6,id,8385.9619140625,0.6696496,Digit 5,Digit 5,id,1,1,yes,id
+4,ox_25_e5_p6,ox,5,6,id,7968.45947265625,0.76798123,Digit 5,Digit 5,id,1,1,yes,id
+5,ox_26_e5_p3,ox,5,3,id,9213.888671875,0.7074313,Digit 5,Digit 5,id,1,1,yes,id
+5,ox_27_e5_p4,ox,5,4,id,10030.267578125,0.40774533,Digit 6,Digit 1,id,0,0,no,id
+6,ox_28_e5_p6,ox,5,6,id,9431.4296875,0.7280643,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+6,ox_29_e5_p3,ox,5,3,id,8391.0087890625,0.9329679,Digit 5,Digit 3,id,1,0,N/A,id
+1,ox_3_e5_p6,ox,5,6,id,9590.12890625,0.6571158,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+7,ox_30_e5_p3,ox,5,3,id,8318.1474609375,0.9235902,Digit 5,Digit 5,id,1,1,yes,id
+7,ox_31_e5_p6,ox,5,6,id,7850.29052734375,1.0428176,Digit 6,Digit 6,id,0,0,no,id
+8,ox_32_e5_p6,ox,5,6,id,7581.36962890625,0.82622933,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+8,ox_33_e5_p9,ox,5,9,id,6881.89306640625,1.6684622,Digit 9,Not a Street View House Number,?,0,0,no,id
+9,ox_34_e5_p6,ox,5,6,id,9015.513671875,0.5902766,Digit 5,Digit 5,id,1,1,yes,id
+9,ox_35_e5_p3,ox,5,3,id,9841.462890625,0.6890613,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+10,ox_36_e5_p6,ox,5,6,id,9522.3125,0.6484948,Digit 5,Digit 5,id,1,1,yes,id
+10,ox_37_e5_p6,ox,5,6,id,7411.5791015625,1.2801363,Digit 5,Digit 5,id,1,1,yes,id
+11,ox_38_e5_p3,ox,5,3,id,8078.7509765625,0.68713254,Digit 5,Digit 5,id,1,1,yes,id
+11,ox_39_e5_p3,ox,5,3,id,9804.1142578125,0.38016552,Digit 0,Digit 5,id,0,1,N/A,id
+12,ox_4_e5_p9,ox,5,9,id,7402.08642578125,1.1802608,Digit 5,Digit 9,id,1,0,N/A,id
+13,ox_40_e5_p6,ox,5,6,id,6725.01904296875,1.6692779,Digit 5,Digit 5,id,1,1,yes,id
+13,ox_41_e5_p7,ox,5,7,id,8743.8837890625,0.7875516,Not a Street View House Number,Digit 8,?,0,0,no,id
+14,ox_42_e5_p6,ox,5,6,id,10443.1474609375,0.50837696,Digit 3,Not a Street View House Number,?,0,0,no,id
+14,ox_43_e5_p6,ox,5,6,id,10181.724609375,0.4790413,Digit 5,Digit 5,id,1,1,yes,id
+15,ox_44_e5_p3,ox,5,3,id,8092.27294921875,0.67328966,Digit 3,Digit 5,id,0,1,N/A,id
+15,ox_45_e5_p1,ox,5,1,id,7588.96484375,1.0321131,Digit 5,Digit 1,id,1,0,N/A,id
+16,ox_46_e5_p6,ox,5,6,id,9456.6279296875,0.4981423,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+16,ox_47_e5_p6,ox,5,6,id,8204.7978515625,0.943264,Digit 5,Digit 5,id,1,1,yes,id
+17,ox_48_e5_p6,ox,5,6,id,9093.376953125,0.6683631,Digit 5,Digit 5,id,1,1,yes,id
+17,ox_49_e5_p7,ox,5,7,id,7997.61279296875,1.0580531,Digit 0,Digit 5,id,0,1,N/A,id
+12,ox_5_e5_p6,ox,5,6,id,10595.193359375,0.39134833,Digit 5,Digit 5,id,1,1,yes,id
+18,ox_50_e5_p3,ox,5,3,id,9552.6513671875,0.8113442,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+18,ox_51_e5_p6,ox,5,6,id,8397.751953125,0.88928545,Digit 0,Not a Street View House Number,?,0,0,no,id
+19,ox_52_e5_p9,ox,5,9,id,8588.1787109375,0.7746794,Digit 5,Digit 5,id,1,1,yes,id
+19,ox_53_e5_p6,ox,5,6,id,8708.2998046875,0.86654043,Digit 6,Digit 5,id,0,1,N/A,id
+20,ox_54_e5_p6,ox,5,6,id,8528.5615234375,0.82513714,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+20,ox_55_e5_p3,ox,5,3,id,8902.466796875,0.56157017,Digit 3,Digit 3,id,0,0,no,id
+21,ox_56_e5_p6,ox,5,6,id,7904.54833984375,0.8046567,Digit 6,Digit 5,id,0,1,N/A,id
+21,ox_57_e5_p9,ox,5,9,id,8078.1845703125,1.1563116,Digit 9,Digit 6,id,0,0,no,id
+22,ox_58_e5_p3,ox,5,3,id,9064.0224609375,0.6229679,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+22,ox_59_e5_p9,ox,5,9,id,9763.6884765625,0.51192755,Digit 5,Digit 5,id,1,1,yes,id
+23,ox_6_e5_p9,ox,5,9,id,10466.251953125,0.4511346,Digit 3,Not a Street View House Number,?,0,0,no,id
+24,ox_60_e5_p7,ox,5,7,id,8059.47216796875,0.7551764,Not a Street View House Number,Digit 8,?,0,0,no,id
+24,ox_61_e5_p6,ox,5,6,id,7700.39990234375,0.85467935,Digit 5,Digit 6,id,1,0,N/A,id
+25,ox_62_e5_p6,ox,5,6,id,7986.30859375,0.99345183,Digit 5,Digit 5,id,1,1,yes,id
+25,ox_63_e5_p2,ox,5,2,id,9777.923828125,0.81714654,Digit 5,Digit 5,id,1,1,yes,id
+26,ox_64_e5_p9,ox,5,9,id,10580.4404296875,0.43631268,Digit 5,Digit 5,id,1,1,yes,id
+26,ox_65_e5_p2,ox,5,2,id,8322.361328125,0.79591346,Digit 5,Digit 5,id,1,1,yes,id
+27,ox_66_e5_p3,ox,5,3,id,10814.53515625,0.3368484,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+27,ox_67_e5_p9,ox,5,9,id,9618.591796875,0.46700013,Digit 5,Digit 5,id,1,1,yes,id
+28,ox_68_e5_p8,ox,5,8,id,8928.666015625,0.87193066,Digit 5,Digit 5,id,1,1,yes,id
+28,ox_69_e5_p9,ox,5,9,id,10281.9951171875,0.41877118,Digit 5,Digit 5,id,1,1,yes,id
+23,ox_7_e5_p6,ox,5,6,id,9002.1650390625,0.6651781,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+29,ox_70_e5_p6,ox,5,6,id,9355.7861328125,0.72179914,Digit 6,Digit 5,id,0,1,N/A,id
+29,ox_71_e5_p6,ox,5,6,id,9760.533203125,0.6244971,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+30,ox_72_e5_p3,ox,5,3,id,8690.4775390625,0.73732364,Digit 2,Digit 5,id,0,1,N/A,id
+30,ox_73_e5_p8,ox,5,8,id,9465.5859375,0.5560464,Digit 5,Digit 8,id,1,0,N/A,id
+31,ox_74_e5_p9,ox,5,9,id,8820.9091796875,0.8400643,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+31,ox_75_e5_p6,ox,5,6,id,9966.4892578125,0.4374411,Digit 8,Not a Street View House Number,?,0,0,no,id
+32,ox_76_e5_p3,ox,5,3,id,7608.27783203125,1.2092162,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+32,ox_77_e5_p6,ox,5,6,id,9585.21875,0.51802695,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+33,ox_78_e5_p6,ox,5,6,id,8182.97021484375,0.8910068,Digit 5,Digit 6,id,1,0,N/A,id
+33,ox_79_e5_p8,ox,5,8,id,8254.072265625,0.9354902,Digit 8,Digit 5,id,0,1,N/A,id
+34,ox_8_e5_p6,ox,5,6,id,8127.1181640625,0.87606543,Digit 5,Digit 5,id,1,1,yes,id
+35,ox_80_e5_p3,ox,5,3,id,10341.0673828125,0.50140387,Digit 3,Digit 3,id,0,0,no,id
+35,ox_81_e5_p1,ox,5,1,id,10133.8115234375,0.32930273,Not a Street View House Number,Digit 4,?,0,0,no,id
+36,ox_82_e5_p3,ox,5,3,id,10057.8916015625,0.47859132,Digit 3,Not a Street View House Number,?,0,0,no,id
+36,ox_83_e5_p6,ox,5,6,id,7980.060546875,0.8751224,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+37,ox_84_e5_p6,ox,5,6,id,7443.1357421875,1.027558,Digit 5,Digit 5,id,1,1,yes,id
+37,ox_85_e5_p4,ox,5,4,id,9969.236328125,0.5015582,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+38,ox_86_e5_p9,ox,5,9,id,9367.048828125,0.7616484,Digit 5,Digit 9,id,1,0,N/A,id
+38,ox_87_e5_p9,ox,5,9,id,7046.8310546875,1.5433848,Digit 5,Digit 6,id,1,0,N/A,id
+39,ox_88_e5_p3,ox,5,3,id,10385.080078125,0.48344058,Digit 3,Not a Street View House Number,?,0,0,no,id
+39,ox_89_e5_p6,ox,5,6,id,9133.2412109375,0.7982207,Digit 3,Not a Street View House Number,?,0,0,no,id
+34,ox_9_e5_p3,ox,5,3,id,8106.43701171875,0.9875485,Digit 3,Digit 5,id,0,1,N/A,id
+40,ox_90_e5_p3,ox,5,3,id,9310.728515625,0.6621562,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+40,ox_91_e5_p3,ox,5,3,id,9473.53515625,0.5985752,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+41,ox_92_e5_p3,ox,5,3,id,9583.4951171875,0.5133555,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+41,ox_93_e5_p3,ox,5,3,id,8351.646484375,0.699726,Digit 2,Digit 2,id,0,0,no,id
+42,ox_94_e5_p9,ox,5,9,id,10158.0244140625,0.50057435,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+42,ox_95_e5_p3,ox,5,3,id,9905.890625,0.50093484,Digit 3,Digit 5,id,0,1,N/A,id
+43,ox_96_e5_p3,ox,5,3,id,6671.41162109375,1.3476288,Digit 3,Digit 3,id,0,0,no,id
+43,ox_97_e5_p3,ox,5,3,id,8419.0712890625,1.0013607,Digit 5,Digit 5,id,1,1,yes,id
+44,ox_98_e5_p6,ox,5,6,id,9690.046875,0.6859782,Digit 5,Digit 5,id,1,1,yes,id
+44,ox_99_e5_p6,ox,5,6,ood,4181.96630859375,4.1056137,Digit 6,Digit 6,id,0,0,no,id
+0,sv_0_e5_p3,sv,5,3,id,9261.9765625,0.5123947,Digit 8,Digit 3,id,0,0,no,id
+0,sv_1_e5_p6,sv,5,6,id,10313.466796875,0.3740588,Digit 6,Digit 6,id,0,0,no,id
+45,sv_10_e5_p8,sv,5,8,id,10586.4072265625,0.20764154,Digit 8,Digit 8,id,0,0,no,id
+45,sv_11_e5_p6,sv,5,6,id,10756.724609375,0.2948011,Digit 5,Digit 6,id,1,0,N/A,id
+46,sv_12_e5_p7,sv,5,7,id,9305.5888671875,0.5483832,Digit 1,Digit 1,id,0,0,no,id
+46,sv_13_e5_p2,sv,5,2,id,8116.595703125,0.8688329,Digit 8,Not a Street View House Number,?,0,0,no,id
+47,sv_14_e5_p3,sv,5,3,id,8257.216796875,0.72638977,Digit 1,Not a Street View House Number,?,0,0,no,id
+47,sv_15_e5_p1,sv,5,1,id,10420.953125,0.2809747,Digit 1,Not a Street View House Number,?,0,0,no,id
+48,sv_16_e5_p7,sv,5,7,id,11156.52734375,0.27786922,Digit 7,Digit 7,id,0,0,no,id
+48,sv_17_e5_p3,sv,5,3,id,10432.6748046875,0.39784425,Digit 1,Digit 3,id,0,0,no,id
+49,sv_18_e5_p3,sv,5,3,id,9234.7646484375,0.69056076,Digit 3,Digit 3,id,0,0,no,id
+49,sv_19_e5_p3,sv,5,3,id,10548.1572265625,0.29290533,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+1,sv_2_e5_p3,sv,5,3,id,9083.8916015625,0.57792777,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+2,sv_20_e5_p8,sv,5,8,id,10472.19921875,0.32231477,Digit 8,Digit 8,id,0,0,no,id
+2,sv_21_e5_p6,sv,5,6,id,10406.4091796875,0.33224973,Digit 8,Digit 8,id,0,0,no,id
+3,sv_22_e5_p6,sv,5,6,id,10524.021484375,0.42901257,Digit 5,Digit 5,id,1,1,yes,id
+3,sv_23_e5_p2,sv,5,2,id,10700.4423828125,0.40180573,Not a Street View House Number,Digit 1,?,0,0,no,id
+4,sv_24_e5_p8,sv,5,8,id,7966.91064453125,1.0351617,Digit 8,Digit 8,id,0,0,no,id
+4,sv_25_e5_p8,sv,5,8,id,10271.9423828125,0.33827367,Digit 1,Digit 0,id,0,0,no,id
+5,sv_26_e5_p3,sv,5,3,id,9174.8203125,0.556031,Digit 3,Digit 3,id,0,0,no,id
+5,sv_27_e5_p6,sv,5,6,id,8428.7060546875,0.83967125,Digit 6,Digit 6,id,0,0,no,id
+6,sv_28_e5_p1,sv,5,1,id,10022.681640625,0.4184419,Digit 1,Digit 1,id,0,0,no,id
+6,sv_29_e5_p1,sv,5,1,id,8759.24609375,0.6915203,Digit 1,Not a Street View House Number,?,0,0,no,id
+1,sv_3_e5_p3,sv,5,3,id,10583.138671875,0.35131007,Digit 3,Digit 3,id,0,0,no,id
+7,sv_30_e5_p3,sv,5,3,id,9877.1396484375,0.53019613,Digit 5,Digit 3,id,1,0,N/A,id
+7,sv_31_e5_p9,sv,5,9,id,6748.5576171875,1.3039471,Digit 5,Digit 9,id,1,0,N/A,id
+8,sv_32_e5_p4,sv,5,4,id,9967.15234375,0.37725806,Digit 1,Not a Street View House Number,?,0,0,no,id
+8,sv_33_e5_p3,sv,5,3,id,11083.80859375,0.25562143,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+9,sv_34_e5_p3,sv,5,3,id,8399.9189453125,0.7036054,Digit 3,Digit 3,id,0,0,no,id
+9,sv_35_e5_p3,sv,5,3,id,10527.21875,0.38285595,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+10,sv_36_e5_p3,sv,5,3,id,10112.107421875,0.47602594,Digit 3,Digit 5,id,0,1,N/A,id
+10,sv_37_e5_p3,sv,5,3,id,9546.056640625,0.5682818,Digit 5,Digit 5,id,1,1,yes,id
+11,sv_38_e5_p3,sv,5,3,id,5599.35107421875,2.8012764,Digit 2,Digit 2,id,0,0,no,id
+11,sv_39_e5_p0,sv,5,0,id,7679.1552734375,1.1321648,Digit 0,Digit 6,id,0,0,no,id
+12,sv_4_e5_p8,sv,5,8,id,10807.8837890625,0.24957712,Digit 8,Digit 8,id,0,0,no,id
+13,sv_40_e5_p9,sv,5,9,id,9709.140625,0.47025424,Digit 5,Digit 8,id,1,0,N/A,id
+13,sv_41_e5_p3,sv,5,3,id,10329.4169921875,0.24396077,Not a Street View House Number,Digit 8,?,0,0,no,id
+14,sv_42_e5_p8,sv,5,8,id,10238.697265625,0.3430397,Not a Street View House Number,Digit 8,?,0,0,no,id
+14,sv_43_e5_p2,sv,5,2,id,8784.6923828125,0.86965764,Digit 2,Digit 2,id,0,0,no,id
+15,sv_44_e5_p1,sv,5,1,id,10815.4833984375,0.21949697,Digit 1,Digit 1,id,0,0,no,id
+15,sv_45_e5_p2,sv,5,2,id,9833.283203125,0.3686355,Digit 2,Digit 2,id,0,0,no,id
+16,sv_46_e5_p3,sv,5,3,id,11348.3544921875,0.29263473,Not a Street View House Number,Digit 3,?,0,0,no,id
+16,sv_47_e5_p9,sv,5,9,id,9492.046875,0.40844417,Not a Street View House Number,Digit 5,?,0,1,N/A,id
+17,sv_48_e5_p3,sv,5,3,id,9391.76171875,0.4473855,Digit 9,Digit 3,id,0,0,no,id
+17,sv_49_e5_p8,sv,5,8,id,9564.2080078125,0.4473681,Digit 3,Digit 3,id,0,0,no,id
+12,sv_5_e5_p1,sv,5,1,id,8720.818359375,0.60432076,Digit 1,Digit 5,id,0,1,N/A,id
+18,sv_50_e5_p8,sv,5,8,id,10023.1005859375,0.398111,Digit 5,Digit 9,id,1,0,N/A,id
+18,sv_51_e5_p0,sv,5,0,id,10372.0322265625,0.31722805,Digit 0,Digit 0,id,0,0,no,id
+19,sv_52_e5_p6,sv,5,6,id,11310.0048828125,0.23750913,Not a Street View House Number,Digit 1,?,0,0,no,id
+19,sv_53_e5_p8,sv,5,8,id,9092.6474609375,0.53731865,Digit 8,Digit 2,id,0,0,no,id
+20,sv_54_e5_p9,sv,5,9,id,10904.5546875,0.2590064,Digit 8,Digit 3,id,0,0,no,id
+20,sv_55_e5_p3,sv,5,3,id,10935.298828125,0.33543128,Digit 3,Digit 3,id,0,0,no,id
+21,sv_56_e5_p9,sv,5,9,id,10746.6474609375,0.22829512,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+21,sv_57_e5_p8,sv,5,8,id,9126.978515625,0.57159746,Digit 2,Digit 1,id,0,0,no,id
+22,sv_58_e5_p1,sv,5,1,id,8534.689453125,0.7280859,Digit 1,Digit 0,id,0,0,no,id
+22,sv_59_e5_p3,sv,5,3,id,10534.1494140625,0.31191114,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+23,sv_6_e5_p6,sv,5,6,id,9591.751953125,0.51669735,Digit 0,Not a Street View House Number,?,0,0,no,id
+24,sv_60_e5_p1,sv,5,1,id,10621.0009765625,0.3040151,Digit 0,Digit 1,id,0,0,no,id
+24,sv_61_e5_p8,sv,5,8,id,10426.36328125,0.33802646,Not a Street View House Number,Digit 1,?,0,0,no,id
+25,sv_62_e5_p1,sv,5,1,id,10150.1376953125,0.32551372,Digit 1,Digit 1,id,0,0,no,id
+25,sv_63_e5_p2,sv,5,2,id,9448.142578125,0.49536365,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+26,sv_64_e5_p4,sv,5,4,id,10400.1689453125,0.38532943,Digit 8,Digit 8,id,0,0,no,id
+26,sv_65_e5_p6,sv,5,6,id,9666.4814453125,0.45532066,Digit 6,Digit 6,id,0,0,no,id
+27,sv_66_e5_p9,sv,5,9,id,10400.5849609375,0.37890977,Digit 9,Digit 9,id,0,0,no,id
+27,sv_67_e5_p3,sv,5,3,id,8810.259765625,0.5331643,Digit 3,Digit 3,id,0,0,no,id
+28,sv_68_e5_p4,sv,5,4,id,10498.1982421875,0.26804098,Digit 5,Digit 9,id,1,0,N/A,id
+28,sv_69_e5_p1,sv,5,1,id,8254.478515625,0.7755363,Digit 0,Digit 3,id,0,0,no,id
+23,sv_7_e5_p8,sv,5,8,id,9038.29296875,0.5644548,Digit 8,Not a Street View House Number,?,0,0,no,id
+29,sv_70_e5_p3,sv,5,3,id,10549.3408203125,0.34705225,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+29,sv_71_e5_p1,sv,5,1,id,10709.1708984375,0.390932,Digit 1,Digit 3,id,0,0,no,id
+30,sv_72_e5_p3,sv,5,3,id,9331.08203125,0.66094434,Digit 5,Digit 5,id,1,1,yes,id
+30,sv_73_e5_p8,sv,5,8,id,9091.0185546875,0.51701003,Digit 5,Digit 2,id,1,0,N/A,id
+31,sv_74_e5_p2,sv,5,2,id,10589.04296875,0.29094568,Digit 2,Not a Street View House Number,?,0,0,no,id
+31,sv_75_e5_p6,sv,5,6,id,9731.51171875,0.56720316,Digit 8,Not a Street View House Number,?,0,0,no,id
+32,sv_76_e5_p3,sv,5,3,id,10254.853515625,0.53985083,Digit 9,Not a Street View House Number,?,0,0,no,id
+32,sv_77_e5_p8,sv,5,8,id,10495.0302734375,0.3344024,Digit 8,Not a Street View House Number,?,0,0,no,id
+33,sv_78_e5_p7,sv,5,7,id,9029.0244140625,0.6797302,Digit 2,Not a Street View House Number,?,0,0,no,id
+33,sv_79_e5_p2,sv,5,2,id,10975.2548828125,0.2105154,Digit 2,Not a Street View House Number,?,0,0,no,id
+34,sv_8_e5_p1,sv,5,1,id,10916.7724609375,0.3152332,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+35,sv_80_e5_p6,sv,5,6,id,7916.673828125,1.017526,Digit 5,Digit 6,id,1,0,N/A,id
+35,sv_81_e5_p8,sv,5,8,id,8870.41015625,0.56699365,Digit 8,Digit 8,id,0,0,no,id
+36,sv_82_e5_p3,sv,5,3,id,10509.6298828125,0.36416495,Digit 3,Digit 0,id,0,0,no,id
+36,sv_83_e5_p0,sv,5,0,id,10568.1572265625,0.4459555,Digit 0,Digit 0,id,0,0,no,id
+37,sv_84_e5_p1,sv,5,1,id,9318.5185546875,0.60003906,Digit 0,Digit 0,id,0,0,no,id
+37,sv_85_e5_p6,sv,5,6,id,9991.7431640625,0.27052027,Digit 6,Digit 6,id,0,0,no,id
+38,sv_86_e5_p3,sv,5,3,id,10619.9404296875,0.29549733,Digit 5,Digit 5,id,1,1,yes,id
+38,sv_87_e5_p6,sv,5,6,id,9153.373046875,0.5006764,Digit 6,Digit 6,id,0,0,no,id
+39,sv_88_e5_p3,sv,5,3,id,9759.29296875,0.40614438,Digit 1,Not a Street View House Number,?,0,0,no,id
+39,sv_89_e5_p9,sv,5,9,id,8635.7041015625,0.70300704,Digit 5,Not a Street View House Number,?,1,0,N/A,id
+34,sv_9_e5_p1,sv,5,1,id,10572.4658203125,0.41222396,Digit 1,Digit 1,id,0,0,no,id
+40,sv_90_e5_p1,sv,5,1,id,9968.7568359375,0.36843598,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+40,sv_91_e5_p8,sv,5,8,id,10115.5595703125,0.41411287,Not a Street View House Number,Not a Street View House Number,ood,0,0,no,id
+41,sv_92_e5_p4,sv,5,4,id,10880.01953125,0.32357,Digit 5,Digit 1,id,1,0,N/A,id
+41,sv_93_e5_p4,sv,5,4,id,10863.3173828125,0.35289878,Digit 5,Digit 6,id,1,0,N/A,id
+42,sv_94_e5_p6,sv,5,6,id,10739.2890625,0.23932506,Digit 5,Digit 6,id,1,0,N/A,id
+42,sv_95_e5_p9,sv,5,9,id,7956.8916015625,0.9817066,Digit 5,Digit 5,id,1,1,yes,id
+43,sv_96_e5_p3,sv,5,3,id,7567.00537109375,0.82084763,Digit 5,Digit 5,id,1,1,yes,id
+43,sv_97_e5_p8,sv,5,8,id,8916.9453125,0.5721039,Digit 8,Digit 8,id,0,0,no,id
+44,sv_98_e5_p6,sv,5,6,id,10489.90234375,0.4408425,Digit 6,Digit 5,id,0,1,N/A,id
+44,sv_99_e5_p8,sv,5,8,id,10542.609375,0.3542437,Digit 8,Digit 8,id,0,0,no,id

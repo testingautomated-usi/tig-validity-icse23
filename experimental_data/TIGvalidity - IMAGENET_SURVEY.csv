@@ -1,0 +1,81 @@
+Q,ID,TOOL,Expected,Predicted,ID/OOD DAIV,Loss DAIV,Loss Selforacle,ASS 1,ASS 2,ID/OOD Human,Misclass Human 1,Misclass Human 2,Misclass Humans,ID/OOD Selforacle 9999
+0,dlf_0_e963_p415,dlf,"pizza, pizza pie","bakery, bakeshop, bakehouse",id,51886.44921875,159.0199,Pizza,Pizza,id,1,1,yes,id
+1,dlf_1_e963_p861,dlf,"pizza, pizza pie",toilet seat,id,82058.828125,55.812645,Pizza,Pizza,id,1,1,yes,id
+5,dlf_10_e963_p962,dlf,"pizza, pizza pie","meat loaf, meatloaf",id,50940.6328125,162.70148,Pizza,Pizza,id,1,1,yes,id
+8,dlf_11_e963_p415,dlf,"pizza, pizza pie","bakery, bakeshop, bakehouse",id,53856.14453125,149.3396,Pizza,Pizza,id,1,1,yes,id
+2,dlf_12_e963_p415,dlf,"pizza, pizza pie","bakery, bakeshop, bakehouse",id,50746.1953125,161.92279,Pizza,Pizza,id,1,1,yes,id
+3,dlf_13_e963_p861,dlf,"pizza, pizza pie",toilet seat,id,80413.5859375,58.52191,Pizza,Pizza,id,1,1,yes,id
+4,dlf_14_e963_p922,dlf,"pizza, pizza pie",menu,id,33659.0703125,252.1687,Pizza,Menu,id,1,0,N/A,id
+5,dlf_15_e963_p861,dlf,"pizza, pizza pie",toilet seat,id,79085.703125,61.120026,Pizza,Pizza,id,1,1,yes,id
+6,dlf_16_e963_p931,dlf,"pizza, pizza pie","bagel, beigel",id,65801.7890625,86.48317,Pizza,Pizza,id,1,1,yes,id
+7,dlf_17_e963_p861,dlf,"pizza, pizza pie",toilet seat,id,82668.5859375,56.69073,Pizza,Pizza,id,1,1,yes,id
+1,dlf_18_e963_p922,dlf,"pizza, pizza pie",menu,id,35443.23046875,234.09213,Pizza,Pizza,id,1,1,yes,id
+9,dlf_19_e963_p859,dlf,"pizza, pizza pie",toaster,id,49774.8828125,161.28336,Pizza,Pizza,id,1,1,yes,id
+2,dlf_2_e963_p861,dlf,"pizza, pizza pie",toilet seat,id,82884.15625,57.10447,Pizza,Pizza,id,1,1,yes,id
+3,dlf_3_e963_p415,dlf,"pizza, pizza pie","bakery, bakeshop, bakehouse",id,53700.37109375,150.1546,Pizza,Pizza,id,1,1,yes,id
+4,dlf_4_e963_p962,dlf,"pizza, pizza pie","meat loaf, meatloaf",id,52505.36328125,155.32828,Pizza,Pizza,id,1,1,yes,id
+0,dlf_5_e963_p861,dlf,"pizza, pizza pie",toilet seat,id,82382.515625,57.58402,Pizza,Pizza,id,1,1,yes,id
+6,dlf_6_e963_p467,dlf,"pizza, pizza pie","butcher shop, meat market",id,90364.640625,53.225838,Pizza,Pizza,id,1,1,yes,id
+7,dlf_7_e963_p415,dlf,"pizza, pizza pie","bakery, bakeshop, bakehouse",id,51267.375,159.25095,Pizza,Pizza,id,1,1,yes,id
+8,dlf_8_e963_p509,dlf,"pizza, pizza pie","confectionery, confectionary, candy store",id,34825.81640625,240.56503,Pizza,Pizza,id,1,1,yes,id
+9,dlf_9_e963_p962,dlf,"pizza, pizza pie","meat loaf, meatloaf",id,86462.578125,58.41523,Pizza,Pizza,id,1,1,yes,id
+0,dx_0_occl_e963_p766,dx,"pizza, pizza pie",rotisserie,id,85753.3046875,115.366806,Pizza,Pizza,id,1,1,yes,id
+1,dx_1_occl_e963_p940,dx,"pizza, pizza pie",spaghetti squash,id,57598.85546875,129.24672,Pizza,Pizza,id,1,1,yes,id
+0,dx_10_occl_e963_p567,dx,"pizza, pizza pie","frying pan, frypan, skillet",id,56369.18359375,117.651436,Pizza,Pizza,id,1,1,yes,id
+1,dx_11_blackout_e963_p868,dx,"pizza, pizza pie",tray,id,79645.9609375,58.501244,Pizza,Pizza,id,1,1,yes,id
+2,dx_12_blackout_e963_p509,dx,"pizza, pizza pie","confectionery, confectionary, candy store",id,35276.1171875,232.8637,Pizza,Pizza,id,1,1,yes,id
+3,dx_13_light_e963_p926,dx,"pizza, pizza pie","hot pot, hotpot",id,185494.453125,5.722416,No real-world objects,No real-world objects,ood,0,0,no,id
+4,dx_14_light_e963_p509,dx,"pizza, pizza pie","confectionery, confectionary, candy store",id,38992.50390625,212.2896,Pizza,Pizza,id,1,1,yes,id
+5,dx_15_light_e963_p891,dx,"pizza, pizza pie",waffle iron,id,114702.671875,29.30238,Pizza,Pizza,id,1,1,yes,id
+6,dx_16_light_e963_p861,dx,"pizza, pizza pie",toilet seat,id,87873.8515625,58.160934,Pizza,Pizza,id,1,1,yes,id
+7,dx_17_light_e963_p964,dx,"pizza, pizza pie",potpie,id,183514.890625,4.970746,No real-world objects,No real-world objects,ood,0,0,no,id
+8,dx_18_light_e963_p927,dx,"pizza, pizza pie",trifle,id,116138.3125,62.1885,Pizza,Pizza,id,1,1,yes,id
+9,dx_19_light_e963_p567,dx,"pizza, pizza pie","frying pan, frypan, skillet",id,67828.8671875,105.41513,Pizza,Pizza,id,1,1,yes,id
+2,dx_2_occl_e963_p964,dx,"pizza, pizza pie",potpie,id,68186.1953125,86.64241,Pizza,Pizza,id,1,1,yes,id
+3,dx_3_occl_e963_p931,dx,"pizza, pizza pie","bagel, beigel",id,65612.5,84.71816,Pizza,Pizza,id,1,1,yes,id
+4,dx_4_occl_e963_p962,dx,"pizza, pizza pie","meat loaf, meatloaf",id,63652.90234375,82.97747,Pizza,Pizza,id,1,1,yes,id
+5,dx_5_occl_e963_p964,dx,"pizza, pizza pie",potpie,id,57762.8046875,166.00095,Pizza,Pizza,id,1,1,yes,id
+6,dx_6_occl_e963_p965,dx,"pizza, pizza pie",burrito,id,49788.546875,190.22803,Pizza,Pizza,id,1,1,yes,id
+7,dx_7_occl_e963_p964,dx,"pizza, pizza pie",potpie,id,94732.859375,50.292114,Pizza,Another object,id,1,0,N/A,id
+8,dx_8_occl_e963_p941,dx,"pizza, pizza pie",acorn squash,id,53929.46875,131.2107,Pizza,Pizza,id,1,1,yes,id
+9,dx_9_occl_e963_p499,dx,"pizza, pizza pie","cleaver, meat cleaver, chopper",id,73572.6328125,87.56328,Pizza,Pizza,id,1,1,yes,id
+0,ox_0_e963_p940,ox,"pizza, pizza pie",spaghetti squash,id,60415.67578125,127.68332,Pizza,Pizza,id,1,1,yes,id
+0,ox_1_e963_p965,ox,"pizza, pizza pie",burrito,id,50338.93359375,128.56375,Pizza,Pizza,id,1,1,yes,id
+5,ox_10_e963_p931,ox,"pizza, pizza pie","bagel, beigel",id,41433.4140625,245.00496,Pizza,Pizza,id,1,1,yes,id
+5,ox_11_e963_p567,ox,"pizza, pizza pie","frying pan, frypan, skillet",id,70787.0234375,96.769455,Pizza,Pizza,id,1,1,yes,id
+6,ox_12_e963_p959,ox,"pizza, pizza pie",carbonara,id,40923.58203125,205.43716,Pizza,Pizza,id,1,1,yes,id
+6,ox_13_e963_p567,ox,"pizza, pizza pie","frying pan, frypan, skillet",id,62583.31640625,187.97183,Pizza,Pizza,id,1,1,yes,id
+7,ox_14_e963_p930,ox,"pizza, pizza pie",French loaf,id,53479.6875,172.5463,Pizza,Pizza,id,1,1,yes,id
+7,ox_15_e963_p923,ox,"pizza, pizza pie",plate,id,51610.99609375,203.31705,Pizza,Pizza,id,1,1,yes,id
+8,ox_16_e963_p930,ox,"pizza, pizza pie",French loaf,id,65387.17578125,104.91419,Pizza,Pizza,id,1,1,yes,id
+8,ox_17_e963_p930,ox,"pizza, pizza pie",French loaf,id,44969.16015625,164.95917,Pizza,Pizza,id,1,1,yes,id
+9,ox_18_e963_p959,ox,"pizza, pizza pie",carbonara,id,51564.45703125,152.14594,Pizza,Pizza,id,1,1,yes,id
+9,ox_19_e963_p964,ox,"pizza, pizza pie",potpie,id,58620.1171875,173.28104,Pizza,Pizza,id,1,1,yes,id
+1,ox_2_e963_p567,ox,"pizza, pizza pie","frying pan, frypan, skillet",id,45559.921875,157.07127,Pizza,Pizza,id,1,1,yes,id
+1,ox_3_e963_p567,ox,"pizza, pizza pie","frying pan, frypan, skillet",id,50812.015625,140.79697,Pizza,Pizza,id,1,1,yes,id
+2,ox_4_e963_p931,ox,"pizza, pizza pie","bagel, beigel",id,59505.42578125,94.9861,Pizza,Pizza,id,1,1,yes,id
+2,ox_5_e963_p567,ox,"pizza, pizza pie","frying pan, frypan, skillet",id,60824.625,164.72916,Pizza,Pizza,id,1,1,yes,id
+3,ox_6_e963_p959,ox,"pizza, pizza pie",carbonara,id,45772.828125,225.95041,Pizza,Pizza,id,1,1,yes,id
+3,ox_7_e963_p932,ox,"pizza, pizza pie",pretzel,id,73232.6953125,97.799255,Pizza,Pizza,id,1,1,yes,id
+4,ox_8_e963_p941,ox,"pizza, pizza pie",acorn squash,id,64327.66015625,118.604,Pizza,Pizza,id,1,1,yes,id
+4,ox_9_e963_p959,ox,"pizza, pizza pie",carbonara,id,45811.9921875,163.42474,Pizza,Pizza,id,1,1,yes,id
+0,sv_0_e963_p415,sv,"pizza, pizza pie","bakery, bakeshop, bakehouse",id,73661.78125,114.45923,Pizza,Pizza,id,1,1,yes,id
+0,sv_1_e963_p415,sv,"pizza, pizza pie","bakery, bakeshop, bakehouse",id,67948.578125,88.08121,Bakery,Another object,id,0,0,no,id
+5,sv_10_e963_p962,sv,"pizza, pizza pie","meat loaf, meatloaf",id,67406.8671875,72.091866,Another object,No real-world objects,?,0,0,no,id
+5,sv_11_e963_p964,sv,"pizza, pizza pie",potpie,id,128730.765625,29.672771,Pizza,Pizza,id,1,1,yes,id
+6,sv_12_e963_p960,sv,"pizza, pizza pie","chocolate sauce, chocolate syrup",id,59514.26953125,155.43614,No real-world objects,Chocolate sauce,?,0,0,no,id
+6,sv_13_e963_p643,sv,"pizza, pizza pie",mask,id,75460.7421875,174.83339,No real-world objects,No real-world objects,ood,0,0,no,id
+7,sv_14_e963_p499,sv,"pizza, pizza pie","cleaver, meat cleaver, chopper",id,66557.9453125,131.60362,No real-world objects,Meat cleaver,?,0,0,no,id
+7,sv_15_e963_p415,sv,"pizza, pizza pie","bakery, bakeshop, bakehouse",id,86028.984375,59.269737,No real-world objects,Bakery,?,0,0,no,id
+8,sv_16_e963_p835,sv,"pizza, pizza pie",sundial,id,51633.63671875,157.47806,No real-world objects,No real-world objects,ood,0,0,no,id
+8,sv_17_e963_p539,sv,"pizza, pizza pie","doormat, welcome mat",id,59087.296875,102.84523,No real-world objects,Doormat,?,0,0,no,id
+9,sv_18_e963_p415,sv,"pizza, pizza pie","bakery, bakeshop, bakehouse",id,54760.9140625,140.99646,Pizza,No real-world objects,?,1,0,N/A,id
+9,sv_19_e963_p809,sv,"pizza, pizza pie",soup bowl,id,55233.640625,115.01152,Pizza,Pizza,id,1,1,yes,id
+1,sv_2_e963_p611,sv,"pizza, pizza pie",jigsaw puzzle,id,48287.69921875,192.93585,Pizza,No real-world objects,?,1,0,N/A,id
+1,sv_3_e963_p960,sv,"pizza, pizza pie","chocolate sauce, chocolate syrup",id,55602.1171875,158.03806,No real-world objects,No real-world objects,ood,0,0,no,id
+2,sv_4_e963_p927,sv,"pizza, pizza pie",trifle,id,77143.8671875,81.5817,Pizza,Pizza,id,1,1,yes,id
+2,sv_5_e963_p549,sv,"pizza, pizza pie",envelope,id,62190.125,108.66554,Pizza,Pizza,id,1,1,yes,id
+3,sv_6_e963_p927,sv,"pizza, pizza pie",trifle,id,89775.0,48.79912,No real-world objects,Another object,ood,0,0,no,id
+3,sv_7_e963_p927,sv,"pizza, pizza pie",trifle,id,73683.359375,78.12159,No real-world objects,Another object,?,0,0,no,id
+4,sv_8_e963_p509,sv,"pizza, pizza pie","confectionery, confectionary, candy store",id,64712.6796875,83.08923,No real-world objects,Candy Store,?,0,0,no,id
+4,sv_9_e963_p930,sv,"pizza, pizza pie",French loaf,id,85043.15625,107.53832,No real-world objects,French loaf,?,0,0,no,id
