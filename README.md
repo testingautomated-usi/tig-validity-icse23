@@ -1,6 +1,4 @@
 # When and Why Test Generators for Deep Learning Produce Invalid Inputs: an Empirical Study
-Replication package for the paper "When and Why Test Generators for Deep Learning Produce Invalid Inputs: an Empirical Study", accepted at ICSE 2023
-
 This repository contains the source code and the data of the paper "When and Why Test Generators for Deep Learning Produce Invalid Inputs: an Empirical Study" by V. Riccio and P. Tonella, accepted at the 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023).
 
 ## Reference
