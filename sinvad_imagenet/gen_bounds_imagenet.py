@@ -1,9 +1,11 @@
-#!/usr/bin/env python
 # coding: utf-8
 
 import torch
 import numpy as np
 import sys
+
+from concrete_models import load_model
+from concrete_models import BigGANGenerator
 
 import torchvision.transforms.functional as fn
 
@@ -13,7 +15,6 @@ from keras_preprocessing import image
 from keras.applications.vgg16 import preprocess_input
 
 
-# TODO: push this file to repo, it is the working one
 def preprocess_image(dec_img):
 
     # pt2tf
@@ -66,13 +67,14 @@ with torch.no_grad(): # since nothing is trained here
     INC_MUT_SIZE = 0.1
     MULT_MUT_SIZE = 0.7
     INIT_MUT_SIZE = 0.7
-    imgs_to_samp = 20
+    imgs_to_samp = 100
     COUNT = 0
 
     all_img_lst = []
     num_iterations = 100
     ### multi-image sample loop ###
     while COUNT < imgs_to_samp:
+        print(COUNT)
         ### Sample image ###
         y = torch.tensor([target_class_idx])
         cond = False
@@ -173,6 +175,6 @@ with torch.no_grad(): # since nothing is trained here
             print("found input no. "+str(COUNT))
 
 all_imgs = np.vstack(all_img_lst)
-np.save('bound_imgs_imagenet.npy', all_imgs)
+np.save('bound_imgs_imagenet_100.npy', all_imgs)
 print("generated inputs: "+str(len(all_img_lst)))
 print("GAME OVER")
